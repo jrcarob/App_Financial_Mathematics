@@ -1,2 +1,2 @@
-# App_Matem-tica_Financiera
+# App_Financial Mathematics
 Comparación Interés Simple vs Interés Compuesto
